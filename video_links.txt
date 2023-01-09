@@ -1,0 +1,8 @@
+De links staan ook in de powerpoint.
+
+Locomotion:
+  Follow method: https://drive.google.com/file/d/1gjEWHqOGOe2Jc9hN1WoUaXosi1O5cpFc/view?usp=sharing
+  Checkpoints method: https://drive.google.com/file/d/11VF5PgTdwPep3RMqlf92P2mJivm_OBZ1/view?usp=sharing
+Selection: 
+  SelectionBall method: https://drive.google.com/file/d/1SLfr7nvKCsT9-4nmwhGooDPAiHJWhOGS/view?usp=share_link
+  Pointer method: https://drive.google.com/file/d/1WYPcJkGDCz86z-xGYYVhkStCJKzsqenz/view?usp=share_link

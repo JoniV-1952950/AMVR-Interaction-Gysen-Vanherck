@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/followTests/follow1.unity
+    guid: d07fcb66eeb94ad4088751e97ff55f59
+  - enabled: 1
+    path: Assets/Scenes/followTests/follow2.unity
+    guid: 03a79a29845fe4648a755d9479d76219
+  - enabled: 1
+    path: Assets/Scenes/followTests/follow3.unity
+    guid: 4e22c908073d861419e6d3ba2f163c10
+  - enabled: 1
+    path: Assets/Scenes/followTests/follow4.unity
+    guid: 1e1e1d31b580e6340aa83148932bed5f
+  - enabled: 1
+    path: Assets/Scenes/followTests/follow5.unity
+    guid: 5ae9609466b42c24aab9d995eb8c283a
+  - enabled: 1
+    path: Assets/Scenes/followTests/Follow6.unity
+    guid: 8f76c66340ced564aa406f1a33c0c308
+  - enabled: 1
+    path: Assets/Scenes/followTests/Follow7.unity
+    guid: 76dc7035152d2fe4c9cf36bd653fb3a8
+  - enabled: 1
+    path: Assets/Scenes/followTests/Follow8.unity
+    guid: d133b8d2161488543bd74c5ae44b8b52
+  - enabled: 1
+    path: Assets/Scenes/followTests/Follow9.unity
+    guid: 967f30aa51caa894ba198444c0fbce91
+  - enabled: 1
+    path: Assets/Scenes/followTests/Follow10.unity
+    guid: 8106e1ad8b6d72347989c531a0136d27
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/Checkpoints1.unity
+    guid: dbed652c70242184eabae83054fc331c
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/Checkpoints2.unity
+    guid: 6b987db5e59516740b56ee56153fe2ce
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/Checkpoints3.unity
+    guid: e371127042119924e8a04f8ea07dae16
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/Checkpoints4.unity
+    guid: 06ac97cf0a30d58449ba14316c990acd
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/Checkpoints5.unity
+    guid: 4ce094702cb4b9642b83764f12659bef
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/checkpoints6.unity
+    guid: 80d4b0f162ea44b4abebff7db807170c
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/Checkpoints7.unity
+    guid: b5669a4d00e64b949bd491adfa9a2f0d
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/Checkpoints8.unity
+    guid: 26f64f1a750c57e41b47ac3046fba5c2
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/Checkpoints9.unity
+    guid: a088df7b6db4f724abf5d4a6aa150c02
+  - enabled: 1
+    path: Assets/Scenes/CheckpointTests/Checkpoints10.unity
+    guid: 9b6b71029c13826468fde9520ed21970
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: 749938a599e2c1141b59c520a7119c8b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 92feb3ed25e528e4b9fcca68d1145013,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2ec24d39f7b5ac84aad7e5df7b4fd3ea,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 7c0d65f8139523c47a3ac0b1587ccdf6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9536d1ebdad23534cb1cf1c7c35b73b6,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a3b2d788715dd2e4a985cdc2118e5187,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 2ae0a4a226e8d9e4aba56d1e2eb3977b,
+      type: 2}
